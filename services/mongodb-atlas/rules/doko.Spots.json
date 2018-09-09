@@ -1,0 +1,23 @@
+{
+    "id": "5b9407f13dcb8bec0bdf04e7",
+    "database": "doko",
+    "collection": "Spots",
+    "roles": [
+        {
+            "name": "default",
+            "apply_when": {},
+            "read": true,
+            "write": false,
+            "insert": false,
+            "delete": false,
+            "additional_fields": {}
+        }
+    ],
+    "schema": {
+        "properties": {
+            "_id": {
+                "bsonType": "objectId"
+            }
+        }
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "id": "5b93ea9913c806e49a6b7560",
+    "name": "recents",
+    "run_as_user_id": "",
+    "run_as_user_id_script_source": "",
+    "options": {
+        "httpMethod": "GET",
+        "validationMethod": "NO_VALIDATION"
+    },
+    "respond_result": true
+}

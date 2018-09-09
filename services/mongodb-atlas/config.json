@@ -1,0 +1,10 @@
+{
+    "id": "5b935a7b8c5febf0365fdef6",
+    "name": "mongodb-atlas",
+    "type": "mongodb-atlas",
+    "config": {
+        "clusterName": "doko",
+        "wireProtocolEnabled": false
+    },
+    "version": 1
+}

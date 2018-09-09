@@ -1,0 +1,23 @@
+{
+    "id": "5b9407e913c806e49a6c83b1",
+    "database": "doko",
+    "collection": "Restaurants",
+    "roles": [
+        {
+            "name": "default",
+            "apply_when": {},
+            "read": true,
+            "write": false,
+            "insert": false,
+            "delete": false,
+            "additional_fields": {}
+        }
+    ],
+    "schema": {
+        "properties": {
+            "_id": {
+                "bsonType": "objectId"
+            }
+        }
+    }
+}
